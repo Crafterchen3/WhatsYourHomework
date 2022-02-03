@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Was Sind die Hausaufgaben?</string>
+    <string name="title_home">Hausaufgaben</string>
+    <string name="title_messages">Nachrichten</string>
+    <string name="title_add">Hausaufgabe hinzufügen</string>
+    <string name="button_apply">Hinzufügen</string>
+    <string name="button_clear">Löschen</string>
+    <string name="hint_subject">Fach</string>
+    <string name="hint_contents">Inhalt</string>
+    <string name="radio_easy">Einfach</string>
+    <string name="radio_normal">Normal</string>
+    <string name="radio_hard">Schwer</string>
+    <string name="title_hardness">Schwierigkeit</string>
+</resources>

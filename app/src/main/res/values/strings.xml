@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Whats Your Homework?</string>
+    <string name="title_home">Homework</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_add">Add Homework</string>
+    <string name="button_apply">Add</string>
+    <string name="button_clear">Clear</string>
+    <string name="hint_subject">Subject</string>
+    <string name="hint_contents">Content</string>
+    <string name="radio_easy">Easy</string>
+    <string name="radio_normal">Normal</string>
+    <string name="radio_hard">Hard</string>
+    <string name="title_hardness">Difficulty</string>
+</resources>
